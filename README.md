@@ -9,7 +9,7 @@
 
 
 - 🔭 I’m currently working on __NodeJs__
-- 🌱 I’m currently learning __*mySQL*__
+- 🌱 I’m currently learning __*REACT*__
 - 👯 I’m looking to collaborate and build real world projects through internships
 - 💬 Ask me about **JavaScript** and **NodeJs**
 - 📫 How to reach me: **eluwavictor29@gmail.com**
